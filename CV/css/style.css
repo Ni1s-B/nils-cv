@@ -1,0 +1,21 @@
+body{ background-color: rgb(26, 25, 37); /*här gör jag så att bakrunden blir svart*/
+}
+p{
+    color: oldlace;/*här gör jag så att all text inom paragrafen (<p></p>) blir vit */
+}
+h1{
+   color: oldlace; /*här gör jag så samma sak som på paragrafen fast i rubriken */
+}
+body{
+    color: oldlace; /*här gör jag så att all text innom <body> blir vit*/
+}
+h2 {
+    color: orangered;/*här gör jag så at h2 blir orangeröd*/
+}
+html{
+    text-align:center /*här flyttar jag in allt så att det ligger i mitten av skärmen*/
+}
+
+body{
+    font-size: 22px; /*här gör jag så att textstorleken blir större*/
+}
